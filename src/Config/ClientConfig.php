@@ -112,7 +112,7 @@ final class ClientConfig
         }
 
         if ('' === $this->userAgent) {
-            $this->userAgent = 'nsqphp/'.InstalledVersions::getPrettyVersion('nsq/nsq');
+            $this->userAgent = 'nsqphp/'.InstalledVersions::getPrettyVersion('lishelun/nsq');
         }
 
         if ($this->snappy && $this->deflate) {
