@@ -1,5 +1,5 @@
 {
-    "name": "nsq/nsq",
+    "name": "lishelun/nsq",
     "type": "library",
     "description": "NSQ Client for PHP",
     "homepage": "https://github.com/nsqphp/nsqphp",
